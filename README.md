@@ -13,7 +13,7 @@ http://mumu.163.com
 
 STEP.2
 
-下载adb：
+下载adb(adb全称是安卓调试桥，它就是一个命令行窗口，用于通过电脑端与模拟器或者真是设备交互，我们需要它来自由的控制我们的android终端)：
 
 http://adbshell.com/downloads
 
