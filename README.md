@@ -27,7 +27,7 @@ http://adbshell.com/downloads
 
 STEP.3
 
-在Mumu模拟器里面打开微信读书，运行main.py
+在Mumu模拟器里面打开微信读书，然后运行main.py
 
 ![图片说明1](https://github.com/jursber/wx_reader/blob/master/img/main.png)
 
