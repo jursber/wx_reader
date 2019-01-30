@@ -1,7 +1,7 @@
 # wx_reader
 微信读书刷时长
 
-STPE.1
+# STPE.1
 
 下载Mumu模拟器：
 
@@ -11,7 +11,7 @@ http://mumu.163.com
 
 ![图片说明1](https://github.com/jursber/wx_reader/blob/master/img/%E6%88%AA%E5%9B%BE2.png)
 
-STEP.2
+# STEP.2
 
 下载adb(adb全称是安卓调试桥，它就是一个命令行窗口，用于通过电脑端与模拟器或者真是设备交互，我们需要它来自由的控制我们的android终端)：
 
@@ -25,9 +25,11 @@ http://adbshell.com/downloads
 
 有用的就这三个文件
 
-STEP.3
+# STEP.3
 
-在Mumu模拟器里面打开微信读书，然后运行main.py
+在Mumu模拟器里面打开微信读书，然后运行main.py 
+
+** 注意，main.py文件必须和adb.exe放在相同的文件夹下 **
 
 ![图片说明1](https://github.com/jursber/wx_reader/blob/master/img/main.png)
 
