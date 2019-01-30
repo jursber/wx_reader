@@ -29,7 +29,7 @@ http://adbshell.com/downloads
 
 在Mumu模拟器里面打开微信读书，然后运行main.py 
 
-** 注意，main.py文件必须和adb.exe放在相同的文件夹下 **
+**注意，main.py文件必须和adb.exe放在相同的文件夹下**
 
 ![图片说明1](https://github.com/jursber/wx_reader/blob/master/img/main.png)
 
